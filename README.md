@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @No1nilesh
-- 👀 I’m interested in ...coding
+- 👋 Hi, I’m Nilesh Gautam
+- 👀 I’m interested in ...Coding,Cricket,little bit in Music
 - 🌱 I’m currently learning ...java,web development 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... '-'
 - 📫 How to reach me ... insta-- @nilesh__g
+- 
 
 <!---
 No1nilesh/No1nilesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
