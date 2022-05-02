@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nilesh Gautam
-- 👀 I’m interested in ...Coding,Cricket,little bit in Music
+- 👀 I’m interested in Coding, Cricket, Music
 - 🌱 I’m currently learning ...java,web development 
 - 💞️ I’m looking to collaborate on ... '-'
 - 📫 How to reach me ... insta-- @nilesh__g
