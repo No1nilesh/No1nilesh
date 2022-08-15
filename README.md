@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nilesh Gautam
 - 👀 I’m interested in Coding, Cricket, Music
-- 🌱 I’m currently learning ...java,web development 
+- 🌱 I’m currently learning ...javaScript,web development, react, MERN 
 - 💞️ I’m looking to collaborate on ... '-'
 - 📫 How to reach me ... insta-- @nilesh__g
 - 🚫 Don't judge me by the codes, There's a lot to come..
