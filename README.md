@@ -1,4 +1,4 @@
-I am a third-year Bachelor of Computer Applications student with a strong background in web development. I have a keen interest in the field and have honed my skills in various technologies and frameworks, particularly React and Express.
+I am a BCA grad with a strong background in web development. I have a keen interest in the field, and have honed my skills in various technologies and frameworks, particularly React,  Next and Express.
 
 React is a JavaScript library that I have extensively worked with for building user interfaces and creating dynamic, interactive web applications. I have a strong understanding of React's core concepts such as components, state, and props, and have used it to build complex and scalable front-end applications.
 
