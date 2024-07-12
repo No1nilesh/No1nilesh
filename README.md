@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nilesh Gautam</h1>
 <h3 align="center">A recent BCA Graduate & A Full Stack Developer</h3>
-
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=no1nilesh&label=Profile%20views&color=0e75b6&style=flat" alt="no1nilesh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nilesh_g1" target="blank"><img src="https://img.shields.io/twitter/follow/nilesh_g1?logo=twitter&style=for-the-badge" alt="nilesh_g1" /></a> </p>
