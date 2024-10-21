@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=no1nilesh&label=Profile%20views&color=0e75b6&style=flat" alt="no1nilesh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Nilesh_g1" target="blank"><img src="https://img.shields.io/twitter/follow/nilesh_g1?logo=twitter&style=for-the-badge" alt="nilesh_g1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nilesh__g1" target="blank"><img src="https://img.shields.io/twitter/follow/nilesh_g1?logo=twitter&style=for-the-badge" alt="nilesh__g1" /></a> </p>
 
 - 🔭 I’m currently working on **FitnessFlex_2.0**
 
